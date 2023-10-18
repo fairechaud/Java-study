@@ -1,0 +1,2 @@
+# Original prompt
+A university finance official generally likes to check his emails starting with the newest one. Please implement a suitable data structure to store data, insert new value/record when a new email arrives, delete a given value/email when the official reads the email, and search for a value/email. Write a complete Java program to handle records (i.e., insert, search, delete). Note: be mindful that sometimes the official may decide to read an email that is not the newest one.
