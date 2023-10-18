@@ -1,0 +1,3 @@
+Binary search is a search algorithm that works by dividing the search space in half with each iteration. The algorithm starts by comparing the search key to the middle element of the search space. If the search key is equal to the middle element, the algorithm returns the middle element. Otherwise, the algorithm recursively searches the half of the search space that contains the search key.
+
+This function works by recursively calling itself to search the half of the search space that contains the search key. The base case is when the search space is empty, in which case the search key is not found.

@@ -1,0 +1,1 @@
+This code works by first creating an array to store the frequency of each character in the string. Then, it iterates over the string and updates the frequency of each character. Finally, it iterates over the frequency array and returns the first character with a frequency of 1. If there is no such character, it returns '-'.
